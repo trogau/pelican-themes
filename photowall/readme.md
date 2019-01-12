@@ -2,6 +2,11 @@
 
 A very basic theme for Pelican for a simple image wall front page. 
 
+# Requirements
+
+- the 'neighbours' plugin (for next/previous photo)
+- markdown for Python (pip install markdown)
+
 ## Usage
 
 1. Find your Pelican content directory. I keep mine in /www/photos/html/content
